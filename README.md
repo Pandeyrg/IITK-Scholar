@@ -12,3 +12,8 @@ Run the files in the order of :
 
 ##########
 link for the  actual portal is  : http://schinmay.pythonanywhere.com/
+
+
+########
+link for the data : https://drive.google.com/open?id=124M8y8Ky09oQ49jqXUPROJNncQp3WPso
+
